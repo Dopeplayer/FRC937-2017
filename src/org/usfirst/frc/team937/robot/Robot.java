@@ -130,6 +130,7 @@ public class Robot extends IterativeRobot {
 			dpadY = 0;
 			break;
 		}
+		//what is this?
 		// buttons
 		//int buttonA = controller.getRawButton(1) ? 1 : 0;
 		//int buttonB = controller.getRawButton(2) ? 1 : 0;
